@@ -40,7 +40,7 @@ Dopo aver fatto ciò cliccate su PHPmyadmin. Dalla colonna di sinistra potrete c
 
 Sarà necessario anche creare l'utente con i massimi privilegi nel DB. 
 Per farlo dovrete selezionare il DB appena creato nella colonna di sinistra e, nella pagina che si aprirà, nella riga in alto selezionare `Privilegi`, se non dovesse apparire provate a cliccare prima su `Più` dovrebbe spuntare un menu a tendina in cui apparirà la voce `privilegi`.
-Date lo stesso nome che avete dato al Database con la differenza che, invece di `_db` dovrete utilizzare `_user` (esempio: `cba_user`). 
+Date lo stesso nome che avete dato al Database con la differenza che, invece di `_db` dovrete utilizzare `_user` (esempio: `cba_user`). Come `Host` inserite `localhost`.
 Scorrendo più in basso assegnate tutti i privilegi all'utente e date la conferma **premendo il bottone in basso a destra**.
 
 <a name="wordpress"></a>
